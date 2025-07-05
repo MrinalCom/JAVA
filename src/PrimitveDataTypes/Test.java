@@ -1,4 +1,4 @@
-package javainonevideo;
+package PrimitveDataTypes;
 
 public class Test {
     public static void main (String [] args){
