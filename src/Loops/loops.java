@@ -9,7 +9,7 @@ public class loops {
             i++;
         }
         //do-while loop
-        int i=1;
+//        int i=1;
         do{
             System.out.println(i);
             i++;
@@ -27,9 +27,9 @@ public class loops {
         10000
         100000
          */
-        for(int i=1,j=1;j<=6;i*=10,j++){
-            System.out.println(i);
-        }
+//        for(int i=1,j=1;j<=6;i*=10,j++){
+//            System.out.println(i);
+//        }
 
         //extract digits
         int digits=19393922;
@@ -41,12 +41,12 @@ public class loops {
         }
 
 //        System.out.printf("The number of digits are %d",result);
-        for(int i=0;i<6;i++){
-            for(int j=0;j<=i;j++){
-                System.out.print("*");
-            }
-            System.out.println();
-        }
+//        for(int i=0;i<6;i++){
+//            for(int j=0;j<=i;j++){
+//                System.out.print("*");
+//            }
+//            System.out.println();
+//        }
 
 
 
