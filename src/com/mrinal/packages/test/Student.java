@@ -5,6 +5,11 @@ public class Student {
     private String name;
     private int rollNumber;
     private int age;
+    public Student(String name,int rollNumber,int age){
+        this.age=age;
+        this.name=name;
+        this.rollNumber=rollNumber;
+    }
 
     public String getName() {
         return name;
